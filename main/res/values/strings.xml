@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">SocialSparks</string>
-    <string name="the_social_spark_app">The Social Spark App</string>
-    <string name="social_spark_logo">Social Spark Logo</string>
-    <string name="time_of_day_e_g_morning">Time of day (e.g. Morning)</string>
-    <string name="get_my_spark">Get My Spark</string>
-    <string name="reset_app">Reset App</string>
-</resources>
